@@ -1,6 +1,7 @@
 """List of prime numbers generator."""
 """ENTER YOUR SOLUTION HERE!"""
 
+#pushing with different git config
 def primes(number_of_primes):
     if(number_of_primes < 1):
         raise ValueError('ENTER AN INTEGER GREATER THAN 0')
